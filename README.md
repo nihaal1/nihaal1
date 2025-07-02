@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nihaal Zaheer
-- 👀 I am a Senior at Iowa State University majoring in Computer Engineering.
-- 💞️ I’m looking for full-time positions in Embedded Systems and related fields.
+- 👀 Bachelor's in Computer Engineering from  Iowa State University.
+- 💞️Firmware Engineer @ Schenider Electric
 - 📫 You can reach me at: zaheernihaal@gmail.com
 
 <!---
