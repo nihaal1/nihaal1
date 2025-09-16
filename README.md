@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nihaal Zaheer
 - 👀 Bachelor's in Computer Engineering from  Iowa State University.
-- 💞️Firmware Engineer @ Schenider Electric
+- 💞️Systems Integration @ Schenider Electric
 - 📫 You can reach me at: zaheernihaal@gmail.com
 
 <!---
